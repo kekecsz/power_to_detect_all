@@ -1,0 +1,1 @@
+# power_to_detect_all
